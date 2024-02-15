@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ellieh9
-- 👀 I’m interested in learning to code, expanding my skillset and establishing myself within the industry!
-- 🌱 I’m currently learning JavaScript, Python, IOS Development and Java
-- 💞️ I’m looking to collaborate on exciting software development projects
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cats! 
+## Hi, I'm Ellie👋
+
+- I’m passionate about creating fun, interactive web apps and websites⚡
+- I’m currently learning JavaScript, Python, Java and IOS Development 😎
+- I’m looking to collaborate on exciting software development projects 💞️ 
 
 <!---
 ellieh9/ellieh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
