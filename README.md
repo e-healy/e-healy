@@ -1,6 +1,6 @@
 ## Hi, I'm Ellie👋
 
-I'm a 23-year-old woman based in the UK, and I’m passionate about creating fun, interactive web apps and websites⚡
+<!--I'm a 23-year-old woman based in the UK, and I’m passionate about creating fun, interactive web apps and websites⚡
 
 - I’m currently learning JavaScript, Python, Java and IOS Development 😎
 - I’m looking to collaborate on exciting software development projects 💞️
