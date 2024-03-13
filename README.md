@@ -2,7 +2,7 @@
 
 I’m passionate about creating fun, interactive web applications and experiences.⚡
 
-- I’m currently learning JavaScript, Python, Java and IOS Development 😎
+- Currently learning JavaScript and Java 😎
 - I’m looking to collaborate on exciting software development projects 💞️
 
 
