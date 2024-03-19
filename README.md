@@ -12,6 +12,11 @@ I’m passionate about creating fun, interactive web applications and experience
 - **Backend Development:** Currently learning `Java` and `Ruby`
 
 
+## Projects 
+- AutoWhiz - All things cars. Winner of CFG JavaScript Final Project Challenge
+- Wandering the World - All things travel. Winner of CFG  Web Development Final Project Challenge
+
+
 ## Fun Facts ✨
 - The Legend of Zelda: Breath of the Wild is my favourite game
 - I love cats! 🐈
