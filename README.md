@@ -9,7 +9,7 @@ I’m passionate about creating fun, interactive web applications and experience
 ## Toolbox 📦 
 - **Frontend Development:** `HTML` `CSS` `JavaScript` `Bootstrap` `React`
 - **Version Control:** `Git` `GitLab`
-- **Backend Development:** Currently learning `Java` and `Ruby`
+- **Backend Development:** Currently learning `Java` `Ruby` `Python` `PHP`
 
 
 ## Projects 
