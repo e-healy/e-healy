@@ -12,7 +12,7 @@ I’m passionate about creating fun, interactive web applications and experience
 - **Backend Development:** Currently learning `Java` `Ruby` `Python` `PHP`
 
 
-## Projects 
+## Projects 👩‍💻 
 - AutoWhiz - All things cars. Winner of CFG JavaScript Final Project Challenge
 - Wandering the World - All things travel. Winner of CFG  Web Development Final Project Challenge
 
