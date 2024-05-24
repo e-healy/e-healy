@@ -21,6 +21,8 @@ I’m passionate about creating fun, interactive web applications and experience
 - The Legend of Zelda: Breath of the Wild is my favourite game
 - I love cats! 🐈
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ellieblues.png" alt="TryHackMe">
+
 <!---
 ellieh9/ellieh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
