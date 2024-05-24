@@ -2,10 +2,6 @@
 
 I’m passionate about creating fun, interactive web applications and experiences.⚡
 
-- Currently learning JavaScript and Java 😎
-- I’m looking to collaborate on exciting software development projects 💞️
-
-
 ## Toolbox 📦 
 - **Frontend Development:** `HTML` `CSS` `JavaScript` `Bootstrap` `React`
 - **Version Control:** `Git` `GitLab`
@@ -20,6 +16,7 @@ I’m passionate about creating fun, interactive web applications and experience
 ## Fun Facts ✨
 - The Legend of Zelda: Breath of the Wild is my favourite game
 - I love cats! 🐈
+  
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ellieblues.png" alt="TryHackMe">
 
