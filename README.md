@@ -15,7 +15,8 @@ I’m passionate about creating fun, interactive web applications and experience
 
 ## Fun Facts ✨
 - The Legend of Zelda: Breath of the Wild is my favourite game
-- I love cats! 🐈
+- I love cats! 🐈 
+
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/ellieblues.png" alt="TryHackMe">
 
